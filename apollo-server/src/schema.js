@@ -22,9 +22,22 @@ const typeDefs = gql`
     updatedAt: String
   }
 
+  type Article {
+    createdAt: String
+    deletedAt: String
+    updatedAt: String
+    id: ID
+    league: League!
+    team: Team!
+    imageUrlString: String
+    body: String
+    title: String
+  }
+
   type Query {
     leagues: [League!]!
     teams: [Team!]!
+    articles(args : [String!]): [Article!]!
   }
 `;
 

@@ -4,6 +4,7 @@ const typeDefs = require('./schema');
 const resolvers = require('./resolvers');
 const { LeagueDataSource } = require('./datasources/leagueDataSource');
 const { TeamDataSource } = require('./datasources/teamDataSource');
+const { ArticleDataSource } = require('./datasources/articleDataSource');
 
 const server = new ApolloServer({
   typeDefs,
@@ -12,6 +13,7 @@ const server = new ApolloServer({
     return {
       leagueDataSource: new LeagueDataSource(),
       teamDataSource: new TeamDataSource(),
+      articleDataSource : new ArticleDataSource()
     };
   },
 });
