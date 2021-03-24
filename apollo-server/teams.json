@@ -1,0 +1,2459 @@
+[
+  {
+    "league": { "id": "54E5D383-2D99-45D2-804A-C9DF69B877A7" },
+    "name": "Bayern Munich",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "9C08C9CC-56FF-4FE3-AF7E-255FF3C62161",
+    "shortname": "BAY",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "54E5D383-2D99-45D2-804A-C9DF69B877A7" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Dortmund",
+    "deletedAt": null,
+    "id": "CEA423F4-CA2B-40DC-ADE0-C7959F3FBFAF",
+    "shortname": "DOR",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Wildcats",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "deletedAt": null,
+    "id": "E004F7BF-2E08-4AAD-8980-B78906595184",
+    "shortname": "ARIZ",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Sun Devils",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "ECE42C20-C01D-42D2-BA8F-F702438CAB1B",
+    "shortname": "ASU",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Tigers",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "6689C9E0-2E56-4778-9079-DDC9800D3337",
+    "shortname": "AUB",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Bulldogs",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "deletedAt": null,
+    "id": "1EF3337D-B7E7-4C82-9AFD-49ADE9ADBA9F",
+    "shortname": "BUTL",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Bearcats",
+    "deletedAt": null,
+    "id": "F7AF0904-41EA-4E2C-B868-CB6C727BC5DF",
+    "shortname": "CIN",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Huskies",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "deletedAt": null,
+    "id": "584C28B2-5C9C-4421-8982-CB365B3F3AD3",
+    "shortname": "UCONN",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Blue Devils",
+    "deletedAt": null,
+    "id": "4ED48C7A-8416-4B5F-84E4-B106F3A3FAAC",
+    "shortname": "DUKE",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Hoyas",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "deletedAt": null,
+    "id": "768A1203-026B-4C89-8929-BCE082057AF6",
+    "shortname": "GTOWN",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "name": "Bulldogs",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "66CA65A6-575B-4E2F-A424-5B5C6047C0C9",
+    "shortname": "UGA",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Yellow Jackets",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "deletedAt": null,
+    "id": "7E16FB6D-24A1-476C-A817-955FD9388F17",
+    "shortname": "GT",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Bulldogs",
+    "deletedAt": null,
+    "id": "208A8CA6-7BE0-4145-A06B-88FDDA981C84",
+    "shortname": "GONZ",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Hoosiers",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "63C3CDE0-37D1-4A4E-AE1B-EEC9B85048AE",
+    "shortname": "IND",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Jayhawks",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "deletedAt": null,
+    "id": "C43767CF-230C-450A-8E7C-15035DCF1016",
+    "shortname": "KU",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Wildcats",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "deletedAt": null,
+    "id": "D26F3520-2444-4C6F-B0C7-59BC8C6AE21A",
+    "shortname": "UK",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Cardinals",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "8529E3EB-3BC9-452C-B697-D8F90A22358D",
+    "shortname": "LOU",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Golden Eagles",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "28E3B094-1988-4A77-AAE3-B49076869BD4",
+    "shortname": "MARQ",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Terrapins",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "30234DBE-F273-4752-8850-CB56801436F6",
+    "shortname": "MD",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Tigers",
+    "deletedAt": null,
+    "id": "600807E2-4A59-4B20-B491-2A007552554D",
+    "shortname": "MEM",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Wolverines",
+    "deletedAt": null,
+    "id": "A8575590-3AEE-4859-A3FC-AD9921D8EC77",
+    "shortname": "MICH",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Spartans",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "deletedAt": null,
+    "id": "CE5261F8-C9E0-495A-92F8-C6E21417AD4B",
+    "shortname": "MSU",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "name": "Tigers",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "672D947E-0338-4AF6-B6C4-100879EF97CA",
+    "shortname": "MIZ",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Wolfpack",
+    "deletedAt": null,
+    "id": "73691FC0-E758-4A33-B01A-80169D0C0FE9",
+    "shortname": "NCST",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Tar Heels",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "372E17B5-656C-4239-9C9D-3DE9A17BF3F8",
+    "shortname": "UNC",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Buckeyes",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "313FA9D3-64A2-4F4E-89A8-2D18101EA8F7",
+    "shortname": "OSU",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Ducks",
+    "deletedAt": null,
+    "id": "30B1CC8C-08F9-486A-99F6-06ACD64B6312",
+    "shortname": "ORE",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Boilermakers",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "5FEE3540-AD3A-431A-9965-AF1D170CA9F3",
+    "shortname": "PUR",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Orange",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "B1737E17-3C34-480B-ACDD-A1A8256B3931",
+    "shortname": "SYR",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Wildcats",
+    "deletedAt": null,
+    "id": "AE87B94E-2403-4F37-82D0-8B67B2C2A44A",
+    "shortname": "VILL",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Cavaliers",
+    "deletedAt": null,
+    "id": "45FF7905-679C-447E-9822-5DEF1CEA5D00",
+    "shortname": "UVA",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "name": "Huskies",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "68FECFEF-97B0-4342-96C1-420863D0F575",
+    "shortname": "WASH",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Mountaineers",
+    "deletedAt": null,
+    "id": "AB58CFEF-7D3E-4CBE-BFD3-427CD7F715A5",
+    "shortname": "WV",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Badgers",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "BC457BF5-308C-4A15-B316-79D2883316CB",
+    "shortname": "WISC",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Musketeers",
+    "league": { "id": "BB90B0DE-969D-420D-B092-FB88E23340D5" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "F2480A34-D80D-43EF-9462-5D95520F52BD",
+    "shortname": "XAV",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Crimson Tide",
+    "deletedAt": null,
+    "id": "26035938-FB7E-4901-AD67-A7331E3A279F",
+    "shortname": "ALA",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Sun Devils",
+    "deletedAt": null,
+    "id": "39847F11-13AD-41A8-9B01-10F4DEE7BA8E",
+    "shortname": "ASU",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Bearcats",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "deletedAt": null,
+    "id": "5BF55DBB-D3B9-49DF-9E25-EF989C15B13D",
+    "shortname": "CIN",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "name": "Tigers",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "FE4DA056-E240-4464-A533-49A996B7C117",
+    "shortname": "CLEM",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Gators",
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "5DF7F13C-8AA9-4A97-9978-686424D5CA69",
+    "shortname": "FLA",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Bulldogs",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "deletedAt": null,
+    "id": "D421B748-E13F-4F68-B1F1-9EAB1BC23A0E",
+    "shortname": "UGA",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "name": "Yellow Jackets",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "E93DA87D-4BC4-4AAF-B225-3B284318C8AD",
+    "shortname": "GT",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Hawkeyes",
+    "deletedAt": null,
+    "id": "975CBFBA-58CA-43C9-906C-4BB77B3DE93A",
+    "shortname": "IOWA",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Tigers",
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "D39255FB-635B-453F-87DB-6D4743B58479",
+    "shortname": "LSU",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Hurricanes",
+    "deletedAt": null,
+    "id": "CA99F034-8A03-48C0-9B3A-07D095B3CD08",
+    "shortname": "MIA",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Wolverines",
+    "deletedAt": null,
+    "id": "A2379DC9-D944-4893-BA36-7A46A88D405D",
+    "shortname": "MICH",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Spartans",
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "20EFACEA-5801-4CD5-8D37-6A37D5059814",
+    "shortname": "MSU",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Tigers",
+    "deletedAt": null,
+    "id": "9F16101B-0DFC-4284-B7D0-EE3ACB3CA4BC",
+    "shortname": "MIZ",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Cornhuskers",
+    "deletedAt": null,
+    "id": "2B4C1BE8-3D4F-4E5D-98B7-4C9F9EE910ED",
+    "shortname": "NEB",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "name": "Tar Heels",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "A5477DD0-1917-4BC0-AB59-DCF32E455346",
+    "shortname": "UNC",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "name": "Fighting Irish",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "780D9729-5693-41E2-BA22-8A1C7AE8D477",
+    "shortname": "ND",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Buckeyes",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "deletedAt": null,
+    "id": "F5523193-2983-4B1D-BA05-D7B759FC1626",
+    "shortname": "OSU",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Sooners",
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "AAE1D502-1265-46FC-B10C-58A8E46323C9",
+    "shortname": "OKLA",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Ducks",
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "FF292179-99C7-4D25-8184-837EC2D3A7DD",
+    "shortname": "ORE",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Nittany Lions",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "deletedAt": null,
+    "id": "D0E66581-B53C-4032-B8E9-3BA6B500B7FE",
+    "shortname": "PSU",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "name": "Gamecocks",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "526D02C1-33E1-4607-9D91-3E4B6B0D0EAC",
+    "shortname": "SC",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Orange",
+    "deletedAt": null,
+    "id": "1EA755D9-CED6-4593-838D-C48BE99D9036",
+    "shortname": "SYR",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Volunteers",
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "D88F6D67-618D-4B07-9F5A-BA85C6FFAE95",
+    "shortname": "TENN",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "name": "Trojans",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "1C50002F-CA1B-4F4C-99A0-33E61CD96D07",
+    "shortname": "USC",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Utes",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "deletedAt": null,
+    "id": "2CACF391-B0EA-44D5-87E8-58E781007D18",
+    "shortname": "UTAH",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "name": "Hokies",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "34AC4E7E-4CCA-4E18-A7CB-D5D6E3F95CBA",
+    "shortname": "VT",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Huskies",
+    "deletedAt": null,
+    "id": "E3512A35-676A-443D-BCC4-F6F822C0929A",
+    "shortname": "WASH",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Badgers",
+    "deletedAt": null,
+    "id": "C6DBB9C8-E855-4A6B-B494-5952DC50D991",
+    "shortname": "WISC",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Bournemouth",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "league": { "id": "3D989C75-9E71-406F-9228-547B49914F06" },
+    "deletedAt": null,
+    "id": "5F15F095-1F97-42C2-A05A-C766AF33146E",
+    "shortname": "BOU",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Derby County",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "league": { "id": "3D989C75-9E71-406F-9228-547B49914F06" },
+    "deletedAt": null,
+    "id": "607172AF-4257-435C-AE69-336D64D3F3A9",
+    "shortname": "DRB",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "3D989C75-9E71-406F-9228-547B49914F06" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Norwich City",
+    "deletedAt": null,
+    "id": "3782B1EB-7CE1-4483-AF96-1D64431319BF",
+    "shortname": "NOR",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Nottingham Forest",
+    "league": { "id": "3D989C75-9E71-406F-9228-547B49914F06" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "deletedAt": null,
+    "id": "CA70BD95-2A45-4FEA-898B-EE8EA794BEC9",
+    "shortname": "NTG",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Sheffield Wednesday",
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "league": { "id": "3D989C75-9E71-406F-9228-547B49914F06" },
+    "deletedAt": null,
+    "id": "2EE2792D-DB1B-44E3-A7C8-17FE9B440FCD",
+    "shortname": "SHF",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "3D989C75-9E71-406F-9228-547B49914F06" },
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Watford",
+    "deletedAt": null,
+    "id": "ADD62662-68A1-4193-9A14-123C5A2448D9",
+    "shortname": "WAT",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "league": { "id": "CE9746B9-D072-4048-810A-0247DA0F8EE8" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "England",
+    "deletedAt": null,
+    "id": "43595C33-CA15-4B34-AE30-3EDC6C0681D6",
+    "shortname": "ENG",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Germany",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "CE9746B9-D072-4048-810A-0247DA0F8EE8" },
+    "deletedAt": null,
+    "id": "B5671B7C-FE83-44B2-8459-DAC8055230AE",
+    "shortname": "GER",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Mexico",
+    "league": { "id": "CE9746B9-D072-4048-810A-0247DA0F8EE8" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "2870CAD3-920F-49DD-B63B-82D56F950156",
+    "shortname": "Mexico",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Northern Ireland",
+    "league": { "id": "CE9746B9-D072-4048-810A-0247DA0F8EE8" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "07809E3E-0AA5-4BA3-A33C-F909CFBF3ECC",
+    "shortname": "NIR",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Republic of Ireland",
+    "league": { "id": "CE9746B9-D072-4048-810A-0247DA0F8EE8" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "FF623E40-1497-4968-AD6B-788457BD6224",
+    "shortname": "IRL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "CE9746B9-D072-4048-810A-0247DA0F8EE8" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Scotland",
+    "deletedAt": null,
+    "id": "FFAF9429-69D3-4C81-BD6D-6AA1FCD42C08",
+    "shortname": "SCO",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "CE9746B9-D072-4048-810A-0247DA0F8EE8" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "USMNT",
+    "deletedAt": null,
+    "id": "95FEC09A-BCEB-48BA-BA7F-DB26A126F7A2",
+    "shortname": "USMNT",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "USWNT",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "CE9746B9-D072-4048-810A-0247DA0F8EE8" },
+    "deletedAt": null,
+    "id": "09F60CC7-3980-477D-A47D-A949773868A9",
+    "shortname": "USWNT",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Wales",
+    "league": { "id": "CE9746B9-D072-4048-810A-0247DA0F8EE8" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "118AB6DF-F2F4-4599-B8E8-7DDF22A52649",
+    "shortname": "WAL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Atlético Madrid",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "5D79A279-DD7D-42F0-82B2-B670CF663FAD" },
+    "deletedAt": null,
+    "id": "251634B6-FD96-44D1-84E3-7485934846C0",
+    "shortname": "ATM",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "5D79A279-DD7D-42F0-82B2-B670CF663FAD" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "FC Barcelona",
+    "deletedAt": null,
+    "id": "417CAD72-5EEE-4E05-9444-AD6E6DFB4726",
+    "shortname": "FCB",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Real Madrid",
+    "league": { "id": "5D79A279-DD7D-42F0-82B2-B670CF663FAD" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "624F237D-581F-4C41-8776-8068DF8AE757",
+    "shortname": "MAD",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Sevilla FC",
+    "league": { "id": "5D79A279-DD7D-42F0-82B2-B670CF663FAD" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "F85A9713-9EBB-4C93-A968-C136D812D452",
+    "shortname": "SEV",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Blue Jays",
+    "deletedAt": null,
+    "id": "19D8E74A-AE1D-43B1-BBAD-BE4CCB1BA14F",
+    "shortname": "TOR",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "name": "Orioles",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "7BF02D16-73B8-40AB-92BC-3D311FF30EFB",
+    "shortname": "BAL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Rays",
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "1C47F382-F138-44E8-B4C0-58A896A42DE6",
+    "shortname": "TB",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Red Sox",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "deletedAt": null,
+    "id": "D5448FBA-C7D6-430E-9DF7-1716445F1F74",
+    "shortname": "BOS",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Yankees",
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "48849229-DC4C-4A78-8BF2-814FA31B4C65",
+    "shortname": "NYY",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Indians",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "deletedAt": null,
+    "id": "A32EB56A-2B3B-4015-A159-521BAD39987E",
+    "shortname": "CLE",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Royals",
+    "deletedAt": null,
+    "id": "BB6A99DF-50D8-478A-B257-49F21DFC2C4C",
+    "shortname": "KC",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Tigers",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "deletedAt": null,
+    "id": "7C204A62-0DD3-49A4-805B-D517160CC2CB",
+    "shortname": "DET",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Twins",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "deletedAt": null,
+    "id": "792DBE92-D237-4EE8-B8BA-5AC35D0F22EC",
+    "shortname": "MIN",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "White Sox",
+    "deletedAt": null,
+    "id": "300A2EFF-0CD6-45F8-AEC5-3AE3B38743B6",
+    "shortname": "CHW",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Angels",
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "9AAF3A6B-8555-4066-AABD-6D12BC6591C8",
+    "shortname": "LAA",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Astros",
+    "deletedAt": null,
+    "id": "B3E24A31-5360-4F0E-B2BF-A0EB02FE302B",
+    "shortname": "HOU",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Athletics",
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "0A3A50DE-4EE5-4979-A195-58B9B1331D95",
+    "shortname": "OAK",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Mariners",
+    "deletedAt": null,
+    "id": "A2CFE2DF-E037-40C1-B3E1-E45A1037B5EA",
+    "shortname": "SEA",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Rangers",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "deletedAt": null,
+    "id": "51EDA315-58F0-4199-A42D-3553CA2F3CE1",
+    "shortname": "TEX",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Braves",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "deletedAt": null,
+    "id": "8A682ED2-E8B7-4FF9-8D09-0391F9D47548",
+    "shortname": "ATL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Marlins",
+    "deletedAt": null,
+    "id": "4FF9FBB5-CD3E-49F3-84F1-316E482212D6",
+    "shortname": "MIA",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "name": "Mets",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "113CAFEB-D970-41C0-8740-B10AE45924E3",
+    "shortname": "NYM",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Nationals",
+    "deletedAt": null,
+    "id": "002E4AB5-600D-4130-BA2A-FCC885D025CB",
+    "shortname": "WSH",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Phillies",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "deletedAt": null,
+    "id": "DBEF3A62-8600-415D-90CF-8E767B956DEF",
+    "shortname": "PHI",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Brewers",
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "C3A05BAB-2576-4143-8CD9-5D2C6CE0B6C7",
+    "shortname": "MIL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Cardinals",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "deletedAt": null,
+    "id": "F22EED7E-98D4-42E8-8B7F-B78DBFFB482C",
+    "shortname": "STL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Cubs",
+    "deletedAt": null,
+    "id": "22A18DE8-3B21-4B20-8B46-951E170B4F8C",
+    "shortname": "CHC",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Pirates",
+    "deletedAt": null,
+    "id": "7DA1744B-3344-4DFD-B939-4788F303BA05",
+    "shortname": "PIT",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Reds",
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "0A3C74C3-AC15-4EB7-AAF3-EAC1EE955DD2",
+    "shortname": "CIN",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "name": "Diamondbacks",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "5AED0525-B3D5-44B4-82D2-809E4F89D6E0",
+    "shortname": "ARI",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Dodgers",
+    "deletedAt": null,
+    "id": "65969B7B-A845-4C6F-85FA-900A629ECE9A",
+    "shortname": "LAD",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Giants",
+    "deletedAt": null,
+    "id": "31A1A4F0-596E-4011-BC26-1B3E23F2969E",
+    "shortname": "SF",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Padres",
+    "deletedAt": null,
+    "id": "E1AFE447-AD60-4ED3-82C2-3B79F37DCEC9",
+    "shortname": "SD",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Rockies",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E" },
+    "deletedAt": null,
+    "id": "DE39D91D-5FED-444D-A958-B80C90120BF4",
+    "shortname": "COL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "United FC",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "deletedAt": null,
+    "id": "D1757868-CAA9-42AC-87FC-12173D9FB515",
+    "shortname": "ATL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Crew SC",
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "85E0EEE3-93F0-4F95-B43A-981E293799FD",
+    "shortname": "CLB",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "name": "United",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "A1BFD60D-7EFC-4CDC-A6FE-AA0C6E41E2C7",
+    "shortname": "DCU",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Dynamo",
+    "deletedAt": null,
+    "id": "475AFC80-2B31-493B-9E95-3D332C81E608",
+    "shortname": "HOU",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Earthquakes",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "deletedAt": null,
+    "id": "4F04559D-0BFD-4BF7-ADD9-CFA427C1F93A",
+    "shortname": "SJ",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "FC Cincinnati",
+    "deletedAt": null,
+    "id": "28A24DB5-59AF-447D-962A-7C660116B02C",
+    "shortname": "CIN",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "FC Dallas",
+    "deletedAt": null,
+    "id": "918C0CF3-0785-4F11-B472-4B0B33462BBF",
+    "shortname": "DAL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Fire",
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "442ACECC-D7C7-4D92-A7AD-38F69D7F6FE1",
+    "shortname": "CHI",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "name": "Galaxy",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "3028BE9B-2945-4710-8360-1280F6BE4C50",
+    "shortname": "LAG",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Impact",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "deletedAt": null,
+    "id": "B9189854-F670-487F-8413-9A484DF9F8AC",
+    "shortname": "MTL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Impact (français)",
+    "deletedAt": null,
+    "id": "5A18E01D-594E-42CC-8AD8-502C66F1788C",
+    "shortname": "MTL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Inter Miami CF",
+    "deletedAt": null,
+    "id": "289D14FF-EF77-4816-AEE3-1F86CB6AEC75",
+    "shortname": "MIA",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "LAFC",
+    "deletedAt": null,
+    "id": "B00E86E6-05FD-4F82-AFED-107121CBB957",
+    "shortname": "LAFC",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "MNUFC",
+    "deletedAt": null,
+    "id": "E8503D12-09D9-402D-88A3-4454294BE9F7",
+    "shortname": "MIN",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "name": "Nashville SC",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "0E55B68C-97A0-4013-B9F4-B8F4F6672F87",
+    "shortname": "NAS",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "NYCFC",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "deletedAt": null,
+    "id": "368DA7E8-22B4-4277-ABB8-F2D3400272F1",
+    "shortname": "NYC",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "City SC",
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "C6101CE5-B610-46E1-B152-89A59AF71F4B",
+    "shortname": "ORL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Rapids",
+    "deletedAt": null,
+    "id": "46B8FFCD-5246-4132-8315-C28BFC71A1FE",
+    "shortname": "COL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Red Bulls",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "deletedAt": null,
+    "id": "91D100F4-8FB2-4845-9BF2-A18F4A6607ED",
+    "shortname": "RBNY",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Real Salt Lake",
+    "deletedAt": null,
+    "id": "9BC6B80E-2CF9-4BDB-B60F-40301532E4F0",
+    "shortname": "RSL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "name": "Revolution",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "C0F537B7-7CB0-450C-BD5F-DB0697CCB37C",
+    "shortname": "NER",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Sounders FC",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "deletedAt": null,
+    "id": "D72FBFE5-808D-4C75-8DF0-B790B78285FE",
+    "shortname": "SEA",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Sporting KC",
+    "deletedAt": null,
+    "id": "4915C3D4-1CE9-4E32-9BD8-B88B8D25C1AE",
+    "shortname": "SKC",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "name": "Timbers",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "91796A3C-BDD2-43E4-B5D3-2A0E2ADB63E7",
+    "shortname": "POR",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Toronto FC",
+    "deletedAt": null,
+    "id": "FA6FC126-3750-40D4-98EC-C5D800F95E96",
+    "shortname": "TOR",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Union",
+    "deletedAt": null,
+    "id": "3F5B4137-AF1E-48F1-A2E0-389D913BCEB9",
+    "shortname": "PHI",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Whitecaps FC",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD" },
+    "deletedAt": null,
+    "id": "B1A9623D-D335-4506-980C-3802ABDF4311",
+    "shortname": "VAN",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "76ers",
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "46DEC2F8-10E5-4752-9237-EE6C0746CD4A",
+    "shortname": "PHI",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Celtics",
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "9DCCFA5D-61AB-44E9-A672-4F65735DC715",
+    "shortname": "BOS",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Knicks",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "deletedAt": null,
+    "id": "80418C24-D7D9-4CBD-BCCC-FF2CDC63D670",
+    "shortname": "NY",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Nets",
+    "deletedAt": null,
+    "id": "35AAD20E-39B5-4053-AD7F-5FBB35D186DC",
+    "shortname": "BKN",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Raptors",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "deletedAt": null,
+    "id": "F3EBA9BE-F3D3-414A-9814-78767A44DB18",
+    "shortname": "TOR",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Bucks",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "deletedAt": null,
+    "id": "F05CFCBC-DD80-422E-A264-E4E319595135",
+    "shortname": "MIL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Bulls",
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "C1211178-D1B6-4A33-8C30-D6A71547C82B",
+    "shortname": "CHI",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Cavaliers",
+    "deletedAt": null,
+    "id": "5B686C64-641F-4E4B-92C7-88F47518121F",
+    "shortname": "CLE",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Pacers",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "deletedAt": null,
+    "id": "211A2617-12C9-43FF-9231-740481DFB4A5",
+    "shortname": "IND",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "name": "Pistons",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "59EF814C-0BD2-475C-BFB8-3C79495B5326",
+    "shortname": "DET",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Hawks",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "deletedAt": null,
+    "id": "31F65C3F-04B0-4721-A918-C5C823894B75",
+    "shortname": "ATL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Heat",
+    "deletedAt": null,
+    "id": "2BAFF7B3-86F8-4E78-AD95-4F532A52B274",
+    "shortname": "MIA",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Hornets",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "deletedAt": null,
+    "id": "2DDEE683-40D0-4A8E-B67D-64C162FD4E75",
+    "shortname": "CHA",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "name": "Magic",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "CB4195EB-9EF5-4C43-BB3B-4E49ACC09A32",
+    "shortname": "ORL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "name": "Wizards",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "9057C620-4742-4A41-96AA-A497A562623A",
+    "shortname": "WAS",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Grizzlies",
+    "deletedAt": null,
+    "id": "1F451EA9-A99B-4CF7-A017-05BF8208F79E",
+    "shortname": "MEM",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Jazz",
+    "deletedAt": null,
+    "id": "D4487D36-23A2-423A-A374-E59B56194ED0",
+    "shortname": "UTA",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Mavericks",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "deletedAt": null,
+    "id": "A3B2BE4C-C473-45BC-B717-712D6C8BF224",
+    "shortname": "DAL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Nuggets",
+    "deletedAt": null,
+    "id": "F49FE914-DB8F-4FD1-AD90-32125FC7F0DE",
+    "shortname": "DEN",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Pelicans",
+    "deletedAt": null,
+    "id": "A694EC1B-B9B3-43E6-895F-24A07ABEDCC4",
+    "shortname": "NO",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "name": "Rockets",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "63536CE5-42E3-4631-8F19-E41473A51EA7",
+    "shortname": "HOU",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Spurs",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "deletedAt": null,
+    "id": "64FB0467-798F-4859-9CB4-8BC5E1A81F63",
+    "shortname": "SA",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Thunder",
+    "deletedAt": null,
+    "id": "5E31DD1C-B066-4A43-A911-BB23E24122F6",
+    "shortname": "OKC",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "name": "Timberwolves",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "E30CD0E1-7E50-4752-B6C5-FF130E1E2422",
+    "shortname": "MIN",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Trail Blazers",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "deletedAt": null,
+    "id": "3E386B9F-5FA2-4080-B9E3-E06E43949EEC",
+    "shortname": "POR",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Clippers",
+    "deletedAt": null,
+    "id": "CD951435-D4A3-4D5D-839C-868EB8A85B0A",
+    "shortname": "LAC",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "name": "Kings",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "31312493-2A14-429A-8435-480ECCBBDCC5",
+    "shortname": "SAC",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Lakers",
+    "deletedAt": null,
+    "id": "1D77739F-CF57-4235-B901-9BC17ECD65B7",
+    "shortname": "LAL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "name": "Suns",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "C7E35E10-C265-4016-8864-89B1BA343687",
+    "shortname": "PHX",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Warriors",
+    "deletedAt": null,
+    "id": "04DDC2D1-6752-4173-8217-BA8326D6CDB7",
+    "shortname": "GS",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Bills",
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "36E6BA8F-6BEE-488F-A8A6-3FF4473C4D8B",
+    "shortname": "BUF",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Dolphins",
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "F1772D05-733D-480E-A84A-390CB69C31BA",
+    "shortname": "MIA",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Jets",
+    "deletedAt": null,
+    "id": "D7B61297-780C-4435-8F77-5E4B64836A55",
+    "shortname": "NYJ",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Patriots",
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "06B083FB-617B-456C-B45F-22EEBAAFF9D8",
+    "shortname": "NE",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Bengals",
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "0B5CBC60-0AD5-4191-9C3C-D80EF92272BD",
+    "shortname": "CIN",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Browns",
+    "deletedAt": null,
+    "id": "3A3651FC-A095-449D-AA14-020EA5873E49",
+    "shortname": "CLE",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Ravens",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "deletedAt": null,
+    "id": "58C8F9B9-C946-4C4B-BA12-680FB4589AE7",
+    "shortname": "BAL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "name": "Steelers",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "8E05FC79-706B-4BF7-9785-74E59B707D08",
+    "shortname": "PIT",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Colts",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "deletedAt": null,
+    "id": "5D0B1388-F7FB-44CA-8077-1A9EA697378B",
+    "shortname": "IND",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Jaguars",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "deletedAt": null,
+    "id": "B5E04F82-E663-4D72-9F43-1AB787EE9C30",
+    "shortname": "JAX",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Texans",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "deletedAt": null,
+    "id": "8345B83D-B75D-49A9-8FB3-A42F93D238D7",
+    "shortname": "HOU",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Titans",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "deletedAt": null,
+    "id": "E09F5ABF-E949-4CAE-8798-87E392724FBE",
+    "shortname": "TEN",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Broncos",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "deletedAt": null,
+    "id": "4B2A55BE-F132-4085-A4E6-03701360D1B0",
+    "shortname": "DEN",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Chargers",
+    "deletedAt": null,
+    "id": "7C67B4CF-34A0-4652-A795-1F017C56CD9F",
+    "shortname": "LAC",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Chiefs",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "deletedAt": null,
+    "id": "450DF23C-745B-4BB1-9AFD-9DC86C3865F9",
+    "shortname": "KC",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Raiders",
+    "deletedAt": null,
+    "id": "0AC49176-E3B5-48BD-BAC3-76B547ECBC94",
+    "shortname": "LV",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "name": "Cowboys",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "F662C567-002F-496A-A60F-8A5CC8826D16",
+    "shortname": "DAL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Eagles",
+    "deletedAt": null,
+    "id": "AD148DED-6CCC-4038-8E36-FF6703C93485",
+    "shortname": "PHI",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Giants",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "deletedAt": null,
+    "id": "7C1D3EA7-AD86-43B0-86D0-91CD8E93DE9C",
+    "shortname": "NYG",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "name": "Washington NFL",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "33B89E28-A497-475E-95DD-0CCBF5774B53",
+    "shortname": "WAS",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Bears",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "deletedAt": null,
+    "id": "643EAF96-D517-4A9A-8CE0-B1C516D1C3C7",
+    "shortname": "CHI",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Lions",
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "22DD3BDE-7F06-4F1F-96B6-C6648D949EAD",
+    "shortname": "DET",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Packers",
+    "deletedAt": null,
+    "id": "E19BDD73-4819-48CB-AB57-350B64C6E963",
+    "shortname": "GB",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Vikings",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "deletedAt": null,
+    "id": "E0C8727A-BC1D-42D4-BA89-640A74A1B9EB",
+    "shortname": "MIN",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Buccaneers",
+    "deletedAt": null,
+    "id": "0D65E4E8-B3AB-46D5-B4F2-D60FEE20702F",
+    "shortname": "TB",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Falcons",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "deletedAt": null,
+    "id": "0FC9EB4A-D4B4-4CA6-88A9-D95B84E72FBB",
+    "shortname": "ATL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "name": "Panthers",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "8908414A-1C28-4D94-9088-DD6D42B67CB1",
+    "shortname": "CAR",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Saints",
+    "deletedAt": null,
+    "id": "9306F2C0-6A4F-4994-BC49-24059CCDB171",
+    "shortname": "NO",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "49ers",
+    "deletedAt": null,
+    "id": "2E93606D-664D-49F4-83CD-1035066A416A",
+    "shortname": "SF",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Cardinals",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "deletedAt": null,
+    "id": "6A49E644-BCB7-430D-9739-F9B0FEFD2773",
+    "shortname": "ARI",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Rams",
+    "deletedAt": null,
+    "id": "93B70244-C6E6-4DEA-827F-2A2C3A208C8D",
+    "shortname": "LAR",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Seahawks",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17" },
+    "deletedAt": null,
+    "id": "3B9A1D2E-0A7D-4421-A32D-71FE5966712C",
+    "shortname": "SEA",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "name": "Bruins",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "90EDC070-7A14-4F1F-B8BD-9C218D50A20E",
+    "shortname": "BOS",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Canadiens",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "deletedAt": null,
+    "id": "182170F4-8285-4489-B68D-18BE7ABF75C6",
+    "shortname": "MTL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Lightning",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "deletedAt": null,
+    "id": "0C6C74C9-6319-4D61-970A-C87411872AFF",
+    "shortname": "TB",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Maple Leafs",
+    "deletedAt": null,
+    "id": "06BAD96F-16A5-478A-B566-BE43608930DB",
+    "shortname": "TOR",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "name": "Panthers",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "1D6D6B96-22DB-4556-812B-2A5D0B3A9DC8",
+    "shortname": "FLA",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Red Wings",
+    "deletedAt": null,
+    "id": "A047104F-3933-4228-8701-72821A72C78F",
+    "shortname": "DET",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Sabres",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "B828CFD1-C919-4A9E-89A3-04C3627EB1C0",
+    "shortname": "BUF",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "name": "Senators",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "D67D6AE7-FAC0-4F38-98BB-8A525C912C25",
+    "shortname": "OTT",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Blue Jackets",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "deletedAt": null,
+    "id": "D549699F-5846-4BB3-8509-59FDB7A09BA3",
+    "shortname": "CBJ",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Capitals",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "A89812E3-487B-44B9-B45C-0D01C9FFD3A4",
+    "shortname": "WAS",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Devils",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "deletedAt": null,
+    "id": "A76D4DBC-33DD-4A69-8C72-D6BFCC735212",
+    "shortname": "NJ",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "name": "Flyers",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "833BB229-BD3D-49B9-9DA1-8F0B9B6A578C",
+    "shortname": "PHI",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Hurricanes",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "03EE116B-D611-4A0D-AB31-9C3143CE7943",
+    "shortname": "CAR",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Islanders",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "24D27E8B-FA7F-46BA-9D40-772BFD22FF5E",
+    "shortname": "NYI",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Penguins",
+    "deletedAt": null,
+    "id": "D512482C-F2E4-40F4-9D7E-CEB9A8640F1C",
+    "shortname": "PIT",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Rangers",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "deletedAt": null,
+    "id": "F5718BE1-6EB2-4BD6-952B-FA20506758EC",
+    "shortname": "NYR",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Canadiens (français)",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "E046753A-21C7-4CE3-8F85-F20B8CE015F6",
+    "shortname": "MTL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Avalanche",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "9A49B3FF-A70D-4ED7-9AFD-EA058CFDF9C1",
+    "shortname": "COL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Blackhawks",
+    "deletedAt": null,
+    "id": "380E8FA6-6930-4F34-A84A-B66F932A3E19",
+    "shortname": "CHI",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Blues",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "deletedAt": null,
+    "id": "D56427E7-260C-4D93-843D-463A90435B1C",
+    "shortname": "STL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Jets",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "deletedAt": null,
+    "id": "DC30448C-D972-4737-BCFF-DD31F2F0349D",
+    "shortname": "WPG",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Predators",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "4F589304-17CB-4410-B681-85AE9748BE9D",
+    "shortname": "NSH",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Stars",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "deletedAt": null,
+    "id": "A7C53919-C6DE-4DA1-9F4D-2426DCD3D9D5",
+    "shortname": "DAL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "name": "Wild",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "4CC7E6E9-842B-4DC5-9707-207B9DD5405B",
+    "shortname": "MIN",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Canucks",
+    "deletedAt": null,
+    "id": "AE52082B-3878-457E-B87D-45DD288AA9F0",
+    "shortname": "VAN",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Coyotes",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "deletedAt": null,
+    "id": "1C790A07-E984-44DF-AB0D-2CBF3B8C8B94",
+    "shortname": "ARI",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Ducks",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "deletedAt": null,
+    "id": "E01E75A5-4CB5-42B0-A5AF-70F8FD44AC8D",
+    "shortname": "ANA",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Flames",
+    "deletedAt": null,
+    "id": "F47C4A16-7E40-4E5B-B735-B87C2891A7C1",
+    "shortname": "CGY",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Golden Knights",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "deletedAt": null,
+    "id": "3C0BDE60-B550-4EC7-9B22-D1A2C85E81CA",
+    "shortname": "VGK",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Kings",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "deletedAt": null,
+    "id": "D9D3C5D1-8183-40C6-B31E-CB536731B034",
+    "shortname": "LA",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Seattle Kraken",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "65D64F3A-A8D2-44E5-8966-9410CA479ADD",
+    "shortname": "SEA",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Oilers",
+    "deletedAt": null,
+    "id": "5F8EED59-CEAA-43E0-9E85-85B220809883",
+    "shortname": "EDM",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Sharks",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F" },
+    "deletedAt": null,
+    "id": "F8E85324-054A-43CD-9982-D352A6483B59",
+    "shortname": "SJ",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Arsenal",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "deletedAt": null,
+    "id": "BC071A0D-1C8D-45D1-9B71-F5C48995C848",
+    "shortname": "ARS",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Aston Villa",
+    "deletedAt": null,
+    "id": "D7088512-A8FC-49FF-A12F-4624F25F6D6B",
+    "shortname": "AST",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "name": "Brighton & Hove Albion",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "81172F10-2C31-488C-9F1C-93C80D66FE6A",
+    "shortname": "BRI",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Burnley",
+    "deletedAt": null,
+    "id": "04F4189E-0414-4E74-83E9-3B003FACE095",
+    "shortname": "BUR",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "name": "Chelsea",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "E610461F-6E83-4C67-A12B-CC36D9BF61B0",
+    "shortname": "CHE",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Crystal Palace",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "deletedAt": null,
+    "id": "38B00873-4DB6-419E-9E97-1A615B25025C",
+    "shortname": "CRY",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Everton",
+    "deletedAt": null,
+    "id": "1820DB64-ADAD-426A-AA9B-A730FA5C1F32",
+    "shortname": "EVE",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Fulham",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "deletedAt": null,
+    "id": "E8A96346-B1F3-4C2F-B881-025E6ABEA5A1",
+    "shortname": "FUL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Leeds United",
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "D276891D-19F8-429F-ACC4-E0E1A1594AE7",
+    "shortname": "LEE",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "name": "Leicester City",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "948A7BAF-CFFF-46D1-81F6-D3798351F926",
+    "shortname": "LEI",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Liverpool",
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "5C8F398C-B0B7-4D2C-B17D-A7D3145C0CF2",
+    "shortname": "LIV",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "name": "Manchester City",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "7ED68AC8-6EC0-4CE0-858A-3C2BBF1894E7",
+    "shortname": "MCY",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Manchester United",
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "5463CB4F-42B3-41C3-9E46-E332B90CC4E5",
+    "shortname": "MNU",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Newcastle United",
+    "deletedAt": null,
+    "id": "D7E36C6E-FFB3-4F90-B185-F6EAD0D8372A",
+    "shortname": "NEW",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "name": "Sheffield United",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "5C4E29E8-1AF8-49E0-8131-828D68724C83",
+    "shortname": "SHU",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Southampton",
+    "deletedAt": null,
+    "id": "CAC8D3E6-BFB8-41D4-92D7-D11679EE50CC",
+    "shortname": "SOU",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Tottenham Hotspur",
+    "deletedAt": null,
+    "id": "E331AD91-0D6D-47F4-8E20-4602570B4B00",
+    "shortname": "TOT",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "West Bromwich Albion",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "deletedAt": null,
+    "id": "3C2D46CA-37E0-453E-8C2F-536C448A5856",
+    "shortname": "WBA",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "West Ham United",
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "99F42B86-04FF-45F4-8F49-64D88829C7C0",
+    "shortname": "WHU",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Wolverhampton Wanderers",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "0D59AECC-9B46-4F16-86B8-376EC673C801" },
+    "deletedAt": null,
+    "id": "9B7655CD-2245-4A62-B0A9-49D7348B2B43",
+    "shortname": "WOL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Celtic F.C.",
+    "league": { "id": "61A9A550-F4F6-498A-8866-E62E1384C850" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "8D57254A-D9F0-45A3-8F57-D037D95EAB12",
+    "shortname": "CEL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Rangers F.C.",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "61A9A550-F4F6-498A-8866-E62E1384C850" },
+    "deletedAt": null,
+    "id": "A0B673A0-98F9-4C23-90B3-33B28212ABC9",
+    "shortname": "RFC",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Roma",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "30388C7E-141E-4422-945E-B1F5E87EF789" },
+    "deletedAt": null,
+    "id": "00FCAE62-BAA2-433E-A900-10E869A8399A",
+    "shortname": "ROM",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "30388C7E-141E-4422-945E-B1F5E87EF789" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "name": "Atalanta",
+    "deletedAt": null,
+    "id": "87678570-FAE4-4932-A194-FFD867DBC21B",
+    "shortname": "ATA",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Inter",
+    "league": { "id": "30388C7E-141E-4422-945E-B1F5E87EF789" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "A8F9090A-A43D-40A9-8624-B0991CEB91F8",
+    "shortname": "INT",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Juventus",
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "league": { "id": "30388C7E-141E-4422-945E-B1F5E87EF789" },
+    "deletedAt": null,
+    "id": "1265D4F2-2429-47DC-949C-5BD4D756621B",
+    "shortname": "JUV",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "name": "Milan",
+    "league": { "id": "30388C7E-141E-4422-945E-B1F5E87EF789" },
+    "updatedAt": "2021-01-20T20:44:44Z",
+    "deletedAt": null,
+    "id": "2B639B9F-FEDE-4CDA-AD68-417D2EB7A2BD",
+    "shortname": "MIL",
+    "createdAt": "2021-01-20T20:44:44Z"
+  },
+  {
+    "league": { "id": "8C95C32C-299E-4A02-9690-DC228C917336" },
+    "updatedAt": "2021-01-20T20:44:45Z",
+    "name": "Aces",
+    "deletedAt": null,
+    "id": "F5F72CF9-25DF-404A-BB6A-8F72DD730F02",
+    "shortname": "LV",
+    "createdAt": "2021-01-20T20:44:45Z"
+  },
+  {
+    "league": { "id": "8C95C32C-299E-4A02-9690-DC228C917336" },
+    "name": "Dream",
+    "updatedAt": "2021-01-20T20:44:45Z",
+    "deletedAt": null,
+    "id": "35087ED5-B653-46E4-9A2E-B35883E486E4",
+    "shortname": "ATL",
+    "createdAt": "2021-01-20T20:44:45Z"
+  },
+  {
+    "league": { "id": "8C95C32C-299E-4A02-9690-DC228C917336" },
+    "name": "Fever",
+    "updatedAt": "2021-01-20T20:44:45Z",
+    "deletedAt": null,
+    "id": "C3EFBE19-085A-4905-BC36-51C2B0803471",
+    "shortname": "IND",
+    "createdAt": "2021-01-20T20:44:45Z"
+  },
+  {
+    "name": "Liberty",
+    "updatedAt": "2021-01-20T20:44:45Z",
+    "league": { "id": "8C95C32C-299E-4A02-9690-DC228C917336" },
+    "deletedAt": null,
+    "id": "53F3E8F0-24E3-41D0-B0AD-77E2DEE50416",
+    "shortname": "NYL",
+    "createdAt": "2021-01-20T20:44:45Z"
+  },
+  {
+    "name": "Lynx",
+    "updatedAt": "2021-01-20T20:44:45Z",
+    "league": { "id": "8C95C32C-299E-4A02-9690-DC228C917336" },
+    "deletedAt": null,
+    "id": "D3E7BA3A-3E62-4BC3-A013-4DA1C72456F9",
+    "shortname": "MIN",
+    "createdAt": "2021-01-20T20:44:45Z"
+  },
+  {
+    "name": "Mercury",
+    "updatedAt": "2021-01-20T20:44:45Z",
+    "league": { "id": "8C95C32C-299E-4A02-9690-DC228C917336" },
+    "deletedAt": null,
+    "id": "76890D1F-2C8E-492B-A6EC-2CFA97B5360C",
+    "shortname": "PHX",
+    "createdAt": "2021-01-20T20:44:45Z"
+  },
+  {
+    "league": { "id": "8C95C32C-299E-4A02-9690-DC228C917336" },
+    "updatedAt": "2021-01-20T20:44:45Z",
+    "name": "Mystics",
+    "deletedAt": null,
+    "id": "BF386F1A-A8AD-4EE2-9D45-1CBEF106FE02",
+    "shortname": "WAS",
+    "createdAt": "2021-01-20T20:44:45Z"
+  },
+  {
+    "league": { "id": "8C95C32C-299E-4A02-9690-DC228C917336" },
+    "name": "Sky",
+    "updatedAt": "2021-01-20T20:44:45Z",
+    "deletedAt": null,
+    "id": "FA62DA7D-D80E-4264-8CD6-A9ADC45474FD",
+    "shortname": "CHI",
+    "createdAt": "2021-01-20T20:44:45Z"
+  },
+  {
+    "name": "Sparks",
+    "updatedAt": "2021-01-20T20:44:45Z",
+    "league": { "id": "8C95C32C-299E-4A02-9690-DC228C917336" },
+    "deletedAt": null,
+    "id": "DAA23579-A86D-4880-9B73-A97BE7E0D4F0",
+    "shortname": "LA",
+    "createdAt": "2021-01-20T20:44:45Z"
+  },
+  {
+    "league": { "id": "8C95C32C-299E-4A02-9690-DC228C917336" },
+    "updatedAt": "2021-01-20T20:44:45Z",
+    "name": "Storm",
+    "deletedAt": null,
+    "id": "DD3487DD-C104-4051-ACF6-7B44D9458B25",
+    "shortname": "SEA",
+    "createdAt": "2021-01-20T20:44:45Z"
+  },
+  {
+    "league": { "id": "8C95C32C-299E-4A02-9690-DC228C917336" },
+    "updatedAt": "2021-01-20T20:44:45Z",
+    "name": "Sun",
+    "deletedAt": null,
+    "id": "4DED64C9-955E-44AF-9019-0A4500FB52AE",
+    "shortname": "CONN",
+    "createdAt": "2021-01-20T20:44:45Z"
+  },
+  {
+    "league": { "id": "8C95C32C-299E-4A02-9690-DC228C917336" },
+    "updatedAt": "2021-01-20T20:44:45Z",
+    "name": "Wings",
+    "deletedAt": null,
+    "id": "19493575-315B-4805-8B88-5D8BBB55283C",
+    "shortname": "DAL",
+    "createdAt": "2021-01-20T20:44:45Z"
+  }
+]

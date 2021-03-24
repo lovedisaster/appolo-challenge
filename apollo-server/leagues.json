@@ -1,0 +1,322 @@
+[
+  {
+    "createdAt": "2021-01-20T20:44:43Z",
+    "name": "Boxing",
+    "deletedAt": null,
+    "id": "013EE947-D533-4BD0-82BE-602F6C2DB264",
+    "sportType": "boxing",
+    "title": "Boxing",
+    "shortName": "BOX",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "createdAt": "2021-01-20T20:44:43Z",
+    "name": "Bundesliga",
+    "sportType": "soccer",
+    "deletedAt": null,
+    "id": "54E5D383-2D99-45D2-804A-C9DF69B877A7",
+    "title": "Bundesliga",
+    "shortName": "BUND",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Champions League Soccer",
+    "id": "502CE511-AFC1-470F-B683-D585A3FC0010",
+    "sportType": "soccer",
+    "deletedAt": null,
+    "title": "Champions League",
+    "shortName": "UEFA",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "NCAA Men's Basketball",
+    "deletedAt": null,
+    "id": "BB90B0DE-969D-420D-B092-FB88E23340D5",
+    "sportType": "basketball",
+    "title": "College Basketball",
+    "shortName": "NCAAB",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "NCAA Football",
+    "sportType": "football",
+    "id": "BE6C7758-B7AC-42CF-BD81-D82E63B9E114",
+    "deletedAt": null,
+    "title": "College Football",
+    "shortName": "NCAAF",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "createdAt": "2021-01-20T20:44:43Z",
+    "name": "Culture",
+    "deletedAt": null,
+    "sportType": "unknown",
+    "id": "A8C207CA-80E9-41C9-A9D7-836E3DF2D93D",
+    "title": "Culture",
+    "shortName": "CLTR",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "English Football League",
+    "sportType": "soccer",
+    "id": "3D989C75-9E71-406F-9228-547B49914F06",
+    "deletedAt": null,
+    "title": "EFL",
+    "shortName": "EFL",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "createdAt": "2021-01-20T20:44:43Z",
+    "name": "Europa League",
+    "sportType": "soccer",
+    "id": "95A5A0C5-74AE-4E7B-966E-B61AAD8B6B80",
+    "deletedAt": null,
+    "title": "Europa League",
+    "shortName": "EUROPA",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "createdAt": "2021-01-20T20:44:43Z",
+    "name": "Fantasy Baseball",
+    "deletedAt": null,
+    "id": "935ACB8B-709E-468E-97E1-5ACA44ED4341",
+    "sportType": "baseball",
+    "title": "Fantasy Baseball",
+    "shortName": "FBB",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Fantasy Basketball",
+    "deletedAt": null,
+    "sportType": "basketball",
+    "id": "0CD4D67E-B4D2-42D7-9961-30F7182CD4C7",
+    "title": "Fantasy Basketball",
+    "shortName": "FBK",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Fantasy Football",
+    "id": "CAC79D00-A20C-45D5-99AD-CDB527B8B4F1",
+    "createdAt": "2021-01-20T20:44:43Z",
+    "shortName": "FF",
+    "deletedAt": null,
+    "title": "Fantasy Football",
+    "sportType": "football",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Fantasy Hockey",
+    "createdAt": "2021-01-20T20:44:43Z",
+    "id": "E51A3AE1-FC99-4F01-82C4-3FA3AC3DFDEE",
+    "shortName": "FH",
+    "deletedAt": null,
+    "title": "Fantasy Hockey",
+    "sportType": "hockey",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Fantasy Premier League",
+    "createdAt": "2021-01-20T20:44:43Z",
+    "id": "089F4D27-C68A-40B5-A9B1-7C43E1420902",
+    "shortName": "FPL",
+    "deletedAt": null,
+    "title": "Fantasy Premier League",
+    "sportType": "soccer",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Golf",
+    "id": "FEFC4583-4DF3-43A0-BDCD-5F46E25D2407",
+    "createdAt": "2021-01-20T20:44:43Z",
+    "shortName": "PGA",
+    "deletedAt": null,
+    "title": "Golf",
+    "sportType": "golf",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "World Cup / International",
+    "id": "CE9746B9-D072-4048-810A-0247DA0F8EE8",
+    "createdAt": "2021-01-20T20:44:43Z",
+    "shortName": "FIFA",
+    "deletedAt": null,
+    "title": "International",
+    "sportType": "soccer",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "La Liga",
+    "id": "5D79A279-DD7D-42F0-82B2-B670CF663FAD",
+    "createdAt": "2021-01-20T20:44:43Z",
+    "shortName": "LALIGA",
+    "deletedAt": null,
+    "title": "La Liga",
+    "sportType": "soccer",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Ligue nationale de hockey",
+    "createdAt": "2021-01-20T20:44:43Z",
+    "id": "9C8AD247-1346-4FCF-8FBB-2B1D893EDAE6",
+    "shortName": "LNH",
+    "deletedAt": null,
+    "title": "LNH",
+    "sportType": "hockey",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Mixed Martial Arts",
+    "createdAt": "2021-01-20T20:44:43Z",
+    "id": "7F83B8D2-108D-4EA8-AF92-28270DB70549",
+    "shortName": "MMA",
+    "deletedAt": null,
+    "title": "Mixed Martial Arts",
+    "sportType": "mma",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "name": "Major League Baseball",
+    "id": "F9B78E86-BD25-4681-B3B5-B5999BF5731E",
+    "createdAt": "2021-01-20T20:44:43Z",
+    "shortName": "MLB",
+    "deletedAt": null,
+    "title": "MLB",
+    "sportType": "baseball",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Major League Soccer",
+    "sportType": "soccer",
+    "deletedAt": null,
+    "id": "BCBE1DE5-CA2E-41AC-A549-449FA9149BFD",
+    "title": "MLS",
+    "shortName": "MLS",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "createdAt": "2021-01-20T20:44:43Z",
+    "name": "Motorsports",
+    "id": "463195BB-A315-484B-BD2E-6C35AF3BC7CE",
+    "deletedAt": null,
+    "sportType": "unknown",
+    "title": "Motorsports",
+    "shortName": "AUTO",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "createdAt": "2021-01-20T20:44:43Z",
+    "name": "National Basketball Association",
+    "sportType": "basketball",
+    "id": "8D59D789-49A3-43F0-86B5-23166ACBDC15",
+    "deletedAt": null,
+    "title": "NBA",
+    "shortName": "NBA",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "National Football League",
+    "sportType": "football",
+    "deletedAt": null,
+    "id": "3F6AFFAB-79CF-4E3A-A195-B338C949AB17",
+    "title": "NFL",
+    "shortName": "NFL",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "National Hockey League",
+    "sportType": "hockey",
+    "deletedAt": null,
+    "id": "9720DB7B-87B8-4B40-9B68-69657DBF993F",
+    "title": "NHL",
+    "shortName": "NHL",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "National Women's Soccer League",
+    "sportType": "soccer",
+    "deletedAt": null,
+    "id": "F0E43104-B975-436F-8E88-C22FD55849A8",
+    "title": "NWSL",
+    "shortName": "NWSL",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "createdAt": "2021-01-20T20:44:43Z",
+    "name": "English Premier League",
+    "deletedAt": null,
+    "id": "0D59AECC-9B46-4F16-86B8-376EC673C801",
+    "sportType": "soccer",
+    "title": "Premier League",
+    "shortName": "EPL",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "Scottish Premiership",
+    "sportType": "soccer",
+    "deletedAt": null,
+    "id": "61A9A550-F4F6-498A-8866-E62E1384C850",
+    "title": "Scottish Premiership",
+    "shortName": "SP",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "createdAt": "2021-01-20T20:44:43Z",
+    "name": "Serie A",
+    "sportType": "soccer",
+    "id": "30388C7E-141E-4422-945E-B1F5E87EF789",
+    "deletedAt": null,
+    "title": "Serie A",
+    "shortName": "SA",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "createdAt": "2021-01-20T20:44:43Z",
+    "name": "Sports Business",
+    "id": "0DE17D02-1F9D-4718-B10B-12CBA61279A9",
+    "deletedAt": null,
+    "sportType": "unknown",
+    "title": "Sports Business",
+    "shortName": "BIZ",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "UK Women's Football",
+    "deletedAt": null,
+    "id": "8EC982E7-F207-4683-9E8F-6E2F54DDAA1F",
+    "sportType": "soccer",
+    "title": "UK Women's Football",
+    "shortName": "WF",
+    "createdAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "createdAt": "2021-01-20T20:44:43Z",
+    "name": "Women's National Basketball Association",
+    "sportType": "basketball",
+    "id": "8C95C32C-299E-4A02-9690-DC228C917336",
+    "deletedAt": null,
+    "title": "WNBA",
+    "shortName": "WNBA",
+    "updatedAt": "2021-01-20T20:44:43Z"
+  },
+  {
+    "updatedAt": "2021-01-20T20:44:43Z",
+    "name": "NCAA Women's Basketball",
+    "id": "44C2B097-CE8E-4C1D-A774-8B3F76F93558",
+    "deletedAt": null,
+    "sportType": "basketball",
+    "title": "Women's College Basketball",
+    "shortName": "NCAAW",
+    "createdAt": "2021-01-20T20:44:43Z"
+  }
+]
