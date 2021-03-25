@@ -2,7 +2,7 @@ import React, { useCallback, useState } from "react";
 import { Link } from "react-router-dom";
 import PropTypes from "prop-types";
 import { gql } from "apollo-boost";
-import { useLazyQuery, useQuery } from "@apollo/react-hooks";
+import { useQuery } from "@apollo/react-hooks";
 import "./ArticleFeeds.css";
 import ActionTypes from "../../actions/ActionTypes";
 import { createBrowserHistory } from "history";
@@ -25,17 +25,16 @@ const GET_TEAMS = gql`
   }
 `;
 
-const ArticleFeeds = ({ state, dispatch, client }) => {
+const ArticleFeeds = ({ client }) => {
   const { data, loading } = useQuery(GET_TEAMS);
   let [articlesFeeds, setArticlesFeeds] = useState(null);
   let [feedsLoading, setFeedsLoading] = useState(false);
   let [currentIndex, setCurrentIndex] = useState(0);
   let [currentFeedIndex, setCurrentFeedIndex] = useState(0);
 
-  const getFeeds = (args) => {
+  const getFeeds = useCallback((args) => {
     setFeedsLoading(true);
-    client
-      .query({
+    client.query({
         query: gql`
           query{
             articles(args: ${JSON.stringify(args)}){
@@ -62,15 +61,15 @@ const ArticleFeeds = ({ state, dispatch, client }) => {
         }
       })
       .catch((e) => console.log("Handle erros here"));
-  };
+  }, [client]);
 
-  const GoToArticlePage = (article, path, dispatch) => {
+  const GoToArticlePage = useCallback((article, path, dispatch) => {
     dispatch({
       type: ActionTypes.SET_ARTICLE,
       payload: article,
     });
     history.replace(path);
-  };
+  },[]);
 
   return (
     <div className="two-col">
@@ -139,29 +138,30 @@ const ArticleFeeds = ({ state, dispatch, client }) => {
             {(context) => {
               return (
                 <div className="feeds__list">
-                  {articlesFeeds && <div className="feeds__pagination">
-                    {currentFeedIndex > 0 && (
-                      <span
-                        onClick={() => {
-                          setCurrentFeedIndex(currentFeedIndex - 4);
-                        }}
-                        className="feeds__list-item-left"
-                      >
-                        Pre
-                      </span>
-                    )}
-                    {currentFeedIndex < articlesFeeds.length - 3 && (
-                      <span
-                        onClick={() => {
-                          setCurrentFeedIndex(currentFeedIndex + 4);
-                        }}
-                        className="feeds__list-item-right"
-                      >
-                        Next
-                      </span>
-                    )}
-                  </div>
-                  }
+                  {articlesFeeds && (
+                    <div className="feeds__pagination">
+                      {currentFeedIndex > 0 && (
+                        <span
+                          onClick={() => {
+                            setCurrentFeedIndex(currentFeedIndex - 4);
+                          }}
+                          className="feeds__list-item-left"
+                        >
+                          Pre
+                        </span>
+                      )}
+                      {currentFeedIndex < articlesFeeds.length - 3 && (
+                        <span
+                          onClick={() => {
+                            setCurrentFeedIndex(currentFeedIndex + 4);
+                          }}
+                          className="feeds__list-item-right"
+                        >
+                          Next
+                        </span>
+                      )}
+                    </div>
+                  )}
                   {articlesFeeds ? (
                     articlesFeeds
                       .slice(currentFeedIndex, currentFeedIndex + 4)
@@ -187,7 +187,12 @@ const ArticleFeeds = ({ state, dispatch, client }) => {
                             </h4>
 
                             <small className="">
-                              Last updated at : <b>{moment(a.updatedAt).format('MMMM Do YYYY, h:mm:ss a')}</b>
+                              Last updated at :{" "}
+                              <b>
+                                {moment(a.updatedAt).format(
+                                  "MMMM Do YYYY, h:mm:ss a"
+                                )}
+                              </b>
                             </small>
                           </span>
                         </div>
@@ -207,6 +212,8 @@ const ArticleFeeds = ({ state, dispatch, client }) => {
   );
 };
 
-ArticleFeeds.propTypes = {};
+ArticleFeeds.propTypes = {
+  client: PropTypes.object,
+};
 
 export default ArticleFeeds;

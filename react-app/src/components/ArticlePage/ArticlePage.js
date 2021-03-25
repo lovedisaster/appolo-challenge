@@ -6,19 +6,25 @@ const ArticlePage = () => {
   return (
     <StateContext.Consumer>
       {(context) => {
-        return (
-          context.state.article ? 
+        return context.state.article ? (
           <div className="container">
             <div className="row">
-                <img className="left" src={context.state.article.imageUrlString}/>
-                <h1 className="right">{context.state.article.title}</h1>
+              <a className="back-button" href="/">
+                Back
+              </a>
+            </div>
+            <div className="row">
+              <img
+                className="left"
+                src={context.state.article.imageUrlString}
+                alt={context.state.article.title}
+              />
+              <h1 className="right">{context.state.article.title}</h1>
             </div>
             <p>{context.state.article.body}</p>
           </div>
-          : 
-          <div>
-              No result found
-          </div>
+        ) : (
+          <div>No result found</div>
         );
       }}
     </StateContext.Consumer>
