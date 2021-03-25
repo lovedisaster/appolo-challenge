@@ -3,11 +3,6 @@
 }
 
 .teams{
-    width: 400px;
-    padding: 30px 15px;
-}
-
-.feeds{
     flex: 1;
     padding: 30px 15px;
 }
@@ -41,4 +36,82 @@
     color: #00639a;
     width: 100%;
     clear: both;
+}
+
+
+.feeds{
+    width: 550px;
+    padding: 30px 15px;
+    position: relative;
+}
+
+.loading{
+    margin: auto;
+    position: absolute;
+    left:0;
+    right:0;
+    top: 150px;
+    text-align: center;
+}
+.feeds .heading{
+    margin-left: 35px;
+    margin-bottom: 20px;
+}
+
+.feeds__list{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 20px;
+}
+
+.feeds__list__item{
+    display: inline-block;
+    padding: 0;
+    max-width: 250px;
+    margin: 5px; 
+}
+
+.item-img{
+    width: 100%;
+}
+
+.item-contents{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border: 1px solid #007cc2;
+    border-radius: 0 0 6px 6px;
+    border-top: none;
+    margin-bottom: 15px;
+}
+
+.title{
+    color: #00639a;
+}
+
+.title>a{
+    color: #00639a;
+    text-decoration: none;
+}
+
+.body{
+    font-size: 14px;
+    color: #000;
+}
+
+.feeds__pagination {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #007cc2;
+}
+
+.feeds__pagination>span{
+    font-weight: bold;
+}
+
+.feeds__pagination>span.feeds__list-item-right{
+    padding-right: 10px;
 }

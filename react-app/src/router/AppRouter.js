@@ -12,9 +12,9 @@ const AppRouter = props => {
         <Router history={history}>
           <Switch>
             <Route exact={true} path="/">
-              <ArticleFeeds />
+              <ArticleFeeds client={props.client}/>
             </Route>
-            <Route exact={true} path="/article/:id" children={<ArticlePage />}>
+            <Route to="/article/:id" children={<ArticlePage/>}>
             </Route>
           </Switch>
         </Router>
