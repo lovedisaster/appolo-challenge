@@ -1,10 +1,24 @@
+const NodeCache = require( "node-cache" );
+const myCache = new NodeCache( { stdTTL: 0, checkperiod: 604800 } );
+
+
 const resolvers = {
   Query: {
     async leagues(_root, _args, { dataSources }) {
       return dataSources.leagueDataSource.getLeagues();
     },
     async teams(_root, _args, { dataSources }) {
-      return dataSources.teamDataSource.getTeams();
+      var teamsCache = myCache.get("teams");
+      if(teamsCache) {
+        return teamsCache;
+      }else{
+        return dataSources.teamDataSource
+        .getTeams()
+        .then(teams => {
+          myCache.set("teams", teams, 0);
+          return teams;
+        });
+      }
     },
     async articles(_root, _args, { dataSources }) {
       return dataSources.articleDataSource
