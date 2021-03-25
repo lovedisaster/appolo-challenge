@@ -1,7 +1,6 @@
 const NodeCache = require( "node-cache" );
 const myCache = new NodeCache( { stdTTL: 0, checkperiod: 604800 } );
 
-
 const resolvers = {
   Query: {
     async leagues(_root, _args, { dataSources }) {

@@ -7,6 +7,7 @@ import "./ArticleFeeds.css";
 import ActionTypes from "../../actions/ActionTypes";
 import { createBrowserHistory } from "history";
 import { StateContext } from "../../App";
+import moment from "moment";
 
 let history = createBrowserHistory();
 
@@ -186,7 +187,7 @@ const ArticleFeeds = ({ state, dispatch, client }) => {
                             </h4>
 
                             <small className="">
-                              Last updated at : <b>{a.updatedAt}</b>
+                              Last updated at : <b>{moment(a.updatedAt).format('MMMM Do YYYY, h:mm:ss a')}</b>
                             </small>
                           </span>
                         </div>
